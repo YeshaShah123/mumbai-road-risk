@@ -1,4 +1,4 @@
-readme_content = """
+
 # Mumbai Road Quality Risk Explorer 🗺️
 
 An end-to-end geospatial analysis of road surface risk in **Bandra West, Mumbai**,
@@ -35,16 +35,7 @@ Open `outputs/mumbai_road_risk_map.html` in any browser — no installation need
 5. Visualises results as an interactive Folium map with tooltips, layer controls,
    and an automated key findings panel
 
----
 
-## Key Findings
-
-- **X%** of road segments in Bandra West are High Risk
-- Residential roads carry **Y%** of complaints despite being **Z%** of the network
-- **W%** of complaints occur during monsoon months (Jun–Sep)
-- Top 10% of roads by complaint volume account for ~50% of all complaints
-
-*(Replace X, Y, Z, W with your actual numbers from the insights output)*
 
 ---
 
